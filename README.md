@@ -15,6 +15,6 @@ FlipGyaan is a lightweight and engaging flashcard-based game designed to help as
         You can then flip the card to review the correct answer and explanation (if any).
 
 🔁 Features : 
-       Each session consists of a set of 5 flashcards.
-       Option to refresh and load a new set of flashcards in both modes.
-       Designed for quick, repeated practice to improve memory retention and exam readiness.
+      1) Each session consists of a set of 5 flashcards.
+      2) Option to refresh and load a new set of flashcards in both modes.
+      3) Designed for quick, repeated practice to improve memory retention and exam readiness.
